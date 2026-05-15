@@ -1,1 +1,0 @@
-pyinstaller "CatCraft Launcher.py" -w -F -i icon.ico
